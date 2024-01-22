@@ -52,7 +52,7 @@ function Navbar() {
                       className="object-cover btn- h-9 w-9 rounded-full mr-2 bg-gray-300"
                       alt=""
                     />
-                    <p className="font-semibold text-sm">Marrie Currie</p>
+                    <p className="font-semibold text-sm">user</p>
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       className="h-4 w-4 ml-2 text-gray-600"
